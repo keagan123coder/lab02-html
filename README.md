@@ -1,1 +1,5 @@
-# lab02-html
+The instructions guide me step-by-step through the process of creating and validating an HTML5 web page. First, I set up a project folder called lab2-html. In the lab file, I organized the structure of the webpage using semantic HTML elements. This included adding a navigation menu, a main content area with distinct sections and articles, a sidebar with related links, and a footer to display copyright information.
+
+Next, I add a contact form at the bottom of the page, where visitors can enter their name, email, and message. I'll ensure the form includes HTML5 validation so users provide the necessary information before submission.
+
+I run my HTML through the W3C Validator to catch any errors and fix them. Finally, I used Git to manage the project. After initializing a Git repository and committing my files, I uploaded my project to a GitHub repository named lab2-html making my work accessible online. This process helped me develop my skills in creating, validating, and sharing HTML5 web pages while also getting hands-on experience with version control.
